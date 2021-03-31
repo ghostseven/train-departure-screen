@@ -23,9 +23,10 @@ You will likely need to set up an alias so that when you type Python you get the
 >### Raspbian Lite
 >If you're using Raspbian Lite, you'll also need to install:
 >- `libopenjp2-7`
+>- `libtiff5`
 >with:
 >```bash
->$ sudo apt-get install libopenjp2-7
+>$ sudo apt-get install libopenjp2-7 libtiff5
 >```
 
 Clone this repo
